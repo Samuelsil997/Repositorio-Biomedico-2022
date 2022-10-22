@@ -10,9 +10,12 @@ En la carpeta prototipo1 se encuentra un ejemplo realizado en visualbasic para p
 
 ## Documentos
 
-Aqui se incluye las versiones del trabajo final que se han realizado
+Aqui se incluye las versiones del trabajo final de tesis que se han realizado
 
 
+## Repositorio Datalab
+
+Aqui se incluye link al repositorio realizado en datalab, además de una guía de su uso
 
 
 
