@@ -6,6 +6,7 @@ Link:
 
 estructura:
 
+![image](https://user-images.githubusercontent.com/99204787/202608753-bf3ad4ee-3619-47f1-a286-f6635667f1da.png)
 
 
 # Dataverse: Pruebas
