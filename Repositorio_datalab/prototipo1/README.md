@@ -47,3 +47,30 @@ Kind of data: Tipo de datos tomados para el análisis y estudio de la epilepsia,
 
 Data source: En caso de estar ingresando al repositorio un archivo externo, en esta sección iría el link de por ejemplo, un archivo de physionet.
 
+
+# Dataverse: Análisis
+En este dataverse, es donde se ingresa todo análisis realizado con base en los archivosingresados en el dataverse de Pruebas. Esto puede incluir por ejemplo métodos de aprendizaje automático, o métodos más simples, que utilicen archivos incluidos en el dataverse de pruebas.Un ejemplo de un dataset creado para esta sección se encuentra en la Figura 8
+
+Id del dataset: Id con el que se identifica el dataset.
+
+título: Debe ser un título fácil de buscar. Autor Aquí va el autor del dataset, no el autor de la rutina del análisis , se incluye también un id de usuario.
+
+contact: Correo del autor. Description: Descripción del análisis y estudio realizado que se está ingresando a nuestro repositorio.
+
+Subject:Esta categoría es obligatoria en Dataverse, considerando el estudio de la epilepsia, se debe colocar “Medicine, Health and Life Sciences.
+
+Notes: Datos importantes del algoritmo, por ejemplo, márgenes de error.
+
+language: Idioma en que fue realizado el proceso.
+
+production date: Día en que fue finalizado el análisis.
+
+contributor : Autor del análisis.
+
+Deposit date:Fecha en que es depositado el análisis en nuestro repositorio.
+
+Time Period Covered : Tiempo que tomó en ser realizado el análisis.
+
+Kind of Data : Tipo de análisis realizado, por ejemplo, aprendizaje automático no supervisado.
+
+
