@@ -1,7 +1,7 @@
 Repositorio prototipo 1
 
 Link:
-
+https://dataverse.redclara.net/dataverse/epil10
 
 
 estructura:
@@ -11,7 +11,7 @@ estructura:
 
 # Dataverse: Pruebas
 
-link: 
+link: https://dataverse.redclara.net/dataverse/pacientess
 
 Este dataverse fue diseñado para ser el centro de todos los archivos, y ser adjuntado en otros dataverse. Un ejemplo de un dataset creado para esta sección se encuentra en la Figura 7. La Meta dada que requiere cada dataset de este dataverse es la siguiente:
 
@@ -49,6 +49,9 @@ Data source: En caso de estar ingresando al repositorio un archivo externo, en e
 
 
 # Dataverse: Análisis
+
+https://dataverse.redclara.net/dataverse/pruebass
+
 En este dataverse, es donde se ingresa todo análisis realizado con base en los archivosingresados en el dataverse de Pruebas. Esto puede incluir por ejemplo métodos de aprendizaje automático, o métodos más simples, que utilicen archivos incluidos en el dataverse de pruebas.Un ejemplo de un dataset creado para esta sección se encuentra en la Figura 8
 
 Id del dataset: Id con el que se identifica el dataset.
