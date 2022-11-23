@@ -5,6 +5,8 @@ Link: https://dataverse.redclara.net/dataverse/analisis1
 
 estructura:
 
+![image](https://user-images.githubusercontent.com/99204787/203448607-64be990a-cb8d-4948-a25d-5d40857559d1.png)
+
  
 # Dataverse Analisis
 
