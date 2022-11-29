@@ -3,9 +3,9 @@
 Este repositorio contiene todo lo relacionado a la fabricación del repositorio sobre la epilepsia , desarrollado por el estudiante de la Universidad del Valle de Guatemala: Samuel Silvestre.
 
 
-## Prototipo1
+## Pruebas
 
-En la carpeta prototipo1 se encuentra un ejemplo realizado en visualbasic para probar guardar archivos en la base de datos, además de otros codigos SQL que fueron usados para realizar pruebas.
+En la carpeta Pruebas se encuentra un ejemplo realizado en visualbasic para probar guardar archivos en la base de datos, además de otros codigos SQL que fueron usados para realizar pruebas.
 
 
 ## Documentos
